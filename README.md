@@ -1,3 +1,3 @@
 # RUN_BLACK
 An easy run away game (Unity)
-![GITHUB]("RUN BLACK.png")
+![image](https://github.com/alice05200/RUN_BLACK/blob/master/RUN%20BLACK.png)
